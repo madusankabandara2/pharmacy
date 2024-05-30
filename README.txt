@@ -4,7 +4,7 @@
 2. In the terminal type "git clone https://github.com/madusankabandara2/pharmacy.git"
 3. Next "cd pharmacy"
 4. Then "composer install"
-5. Rename ".env.exaple" to ".env". Then in your .env file, change "DB_CONNECTION=sqlite". If you wanna use mysql, you can use it. Then you need to configure it accordingly "DB_HOST", "DB_PORT", "DB_DATABASE", "DB_USERNAME", "DB_PASSWORD"
+5. Rename ".env.example" to ".env". Then in your .env file, change "DB_CONNECTION=sqlite". If you wanna use mysql, you can use it. Then you need to configure it accordingly "DB_HOST", "DB_PORT", "DB_DATABASE", "DB_USERNAME", "DB_PASSWORD"
 5. Next "php artisan migrate"
 6. Next "php artisan db:seed"
 7. Next "php artisan serve"
