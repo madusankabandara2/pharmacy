@@ -12,7 +12,8 @@
 9. Don't fogrget to set "content-Type" as "application/json"
 10. After generating tokens, use these specific tokens as Bearer token for other request (Basically you need to create 3 tokens for owner,  manager, and cashier)
 11. If you have any issue, don't hesitate to contact me!
-12. Cheers!
+12. You can also, you postman collection which I have attached already (Pharmacy.postman_collection.json)
+13. Cheers!
 
 ======== Login Details to create Tokens =========
 
