@@ -1,3 +1,6 @@
+Laravel Version =   10.8
+PHP Version =       8.1
+
 =========== How to run the project ==========
 
 1. Open your favorite IDE
@@ -11,7 +14,7 @@
 8. Next you can use Postman for API calls.
 9. Don't fogrget to set "content-Type" as "application/json"
 10. After generating tokens, use these specific tokens as Bearer token for other request (Basically you need to create 3 tokens for owner,  manager, and cashier)
-11. If you have any issue, don't hesitate to contact me!
+11. If you have any issues, don't hesitate to contact me!
 12. You can also, you postman collection which I have attached already (Pharmacy.postman_collection.json)
 13. Cheers!
 
